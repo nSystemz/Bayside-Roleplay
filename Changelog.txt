@@ -1,0 +1,12 @@
+1.5 RC1
+
+- Update auf 0.3.7
+- Kleinere weitere Anpassungen
+
+1.5 RC2
+
+- Anpassungen beim MYSQL Plugin
+
+1.5 RC3
+
+- Include Anpassungen

@@ -1,0 +1,430 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:51:05] filterscripts = ""  (string)
+[12:51:05] 
+[12:51:05] Server Plugins
+[12:51:05] --------------
+[12:51:05]  Loading plugin: mysql
+[12:51:05] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[12:51:05]   Loaded.
+[12:51:05]  Loading plugin: streamer
+[12:51:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:51:05]   Loaded.
+[12:51:05]  Loaded 2 plugins.
+
+[12:51:05] 
+[12:51:05] Filterscripts
+[12:51:05] ---------------
+[12:51:05]   Loaded 0 filterscripts.
+
+[12:51:06] <-| [MYSQL] Verbindung zur Datenbank wurde erfolgreich hergestellt!
+[12:51:06] Es wurden erfolgreich [19] Häuser geladen!
+[12:51:06] [connection] 127.0.0.1:56449 requests connection cookie.
+[12:51:06] [connection] 127.0.0.1:56450 requests connection cookie.
+[12:51:06] [connection] 127.0.0.1:56451 requests connection cookie.
+[12:51:06] [connection] 127.0.0.1:56452 requests connection cookie.
+[12:51:06] [connection] 127.0.0.1:56453 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56454 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56455 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56456 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56457 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56458 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56459 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56460 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56461 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56462 requests connection cookie.
+[12:51:07]   Filterscript 'animations.amx' unload failed.
+[12:51:07]   Filterscript 'animations.amx' load failed'.
+[12:51:07] [connection] 127.0.0.1:56463 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56464 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56465 requests connection cookie.
+[12:51:07] Es wurden erfolgreich [6834] Objekte geladen!
+[12:51:07] ----------------------------------------
+[12:51:07]  Bayside-Roleplay 1.5 RC1 geladen - by Nemesus.dev!
+[12:51:07]  Copyright 2011-2020 by Nemesus & sHoOTi.
+[12:51:07] ------------------------------------------
+[12:51:07] •
+[12:51:07] Number of vehicle models: 70
+[12:51:07] [connection] 127.0.0.1:56466 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56467 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56468 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:56469 requests connection cookie.
+[12:51:07] [connection] incoming connection: 127.0.0.1:56449 id: 0
+[12:51:07] [connection] 127.0.0.1:62166 requests connection cookie.
+[12:51:07] [connection] 127.0.0.1:62167 requests connection cookie.
+[12:51:07] [connection] incoming connection: 127.0.0.1:56450 id: 1
+[12:51:07] [connection] 127.0.0.1:62168 requests connection cookie.
+[12:51:07] [connection] incoming connection: 127.0.0.1:56451 id: 2
+[12:51:07] [connection] 127.0.0.1:62169 requests connection cookie.
+[12:51:07] [connection] incoming connection: 127.0.0.1:56452 id: 3
+[12:51:07] [connection] incoming connection: 127.0.0.1:56453 id: 4
+[12:51:07] [npc:join] Mike has joined the server (0:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56455 id: 5
+[12:51:08] [connection] incoming connection: 127.0.0.1:56454 id: 6
+[12:51:08] [connection] incoming connection: 127.0.0.1:56456 id: 7
+[12:51:08] [npc:join] Dominique has joined the server (1:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56457 id: 8
+[12:51:08] [npc:join] Volker has joined the server (2:127.0.0.1)
+[12:51:08] [npc:join] Ralle has joined the server (3:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56458 id: 9
+[12:51:08] [connection] incoming connection: 127.0.0.1:56459 id: 10
+[12:51:08] [npc:join] Tom has joined the server (4:127.0.0.1)
+[12:51:08] [npc:join] DJ_Paddy has joined the server (5:127.0.0.1)
+[12:51:08] [npc:join] Jack has joined the server (6:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56460 id: 11
+[12:51:08] [npc:join] Phillip has joined the server (7:127.0.0.1)
+[12:51:08] [npc:join] Lumar has joined the server (8:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56461 id: 12
+[12:51:08] [npc:join] Dennis has joined the server (9:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56462 id: 13
+[12:51:08] [npc:join] Peter has joined the server (10:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56463 id: 14
+[12:51:08] [connection] incoming connection: 127.0.0.1:56464 id: 15
+[12:51:08] [npc:join] Pascal has joined the server (11:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56465 id: 16
+[12:51:08] [npc:join] WannisVater has joined the server (12:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56466 id: 17
+[12:51:08] [npc:join] Wanni has joined the server (13:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:56467 id: 18
+[12:51:08] [connection] incoming connection: 127.0.0.1:56468 id: 19
+[12:51:08] [connection] incoming connection: 127.0.0.1:56469 id: 20
+[12:51:08] [npc:join] Neko has joined the server (14:127.0.0.1)
+[12:51:08] [npc:join] Maya has joined the server (15:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:62166 id: 21
+[12:51:08] [npc:join] Michael has joined the server (16:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:62167 id: 22
+[12:51:08] [npc:join] Patrick has joined the server (17:127.0.0.1)
+[12:51:08] [connection] incoming connection: 127.0.0.1:62168 id: 23
+[12:51:08] [connection] incoming connection: 127.0.0.1:62169 id: 24
+[12:51:08] [npc:join] Lissa has joined the server (18:127.0.0.1)
+[12:51:08] [npc:join] Magger has joined the server (19:127.0.0.1)
+[12:51:08] [npc:join] DDealer has joined the server (20:127.0.0.1)
+[12:51:08] [npc:join] DDDealer has joined the server (21:127.0.0.1)
+[12:51:09] [npc:join] Otto has joined the server (22:127.0.0.1)
+[12:51:09] [npc:join] Sasa has joined the server (23:127.0.0.1)
+[12:51:09] [npc:join] John has joined the server (24:127.0.0.1)
+[12:51:13] [connection] 127.0.0.1:52697 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52698 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52699 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52700 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52701 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52702 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52703 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52704 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52705 requests connection cookie.
+[12:51:13] [connection] 127.0.0.1:52706 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52707 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52708 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52709 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52710 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52711 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52712 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52713 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52714 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52715 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52716 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52717 requests connection cookie.
+[12:51:14] '0' Gangautos wurden geladen & erstellt.
+[12:51:14] [connection] 127.0.0.1:52718 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52719 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52720 requests connection cookie.
+[12:51:14] [connection] incoming connection: 127.0.0.1:52697 id: 25
+[12:51:14] [connection] 127.0.0.1:52721 requests connection cookie.
+[12:51:14] [connection] incoming connection: 127.0.0.1:52698 id: 26
+[12:51:14] [connection] 127.0.0.1:52722 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52723 requests connection cookie.
+[12:51:14] [connection] incoming connection: 127.0.0.1:52699 id: 27
+[12:51:14] [connection] 127.0.0.1:52724 requests connection cookie.
+[12:51:14] [connection] 127.0.0.1:52725 requests connection cookie.
+[12:51:14] [connection] incoming connection: 127.0.0.1:52700 id: 28
+[12:51:14] [connection] 127.0.0.1:52726 requests connection cookie.
+[12:51:14] [connection] incoming connection: 127.0.0.1:52701 id: 29
+[12:51:14] [connection] incoming connection: 127.0.0.1:52702 id: 30
+[12:51:14] [connection] incoming connection: 127.0.0.1:52703 id: 31
+[12:51:14] [npc:join] PaulDerBarkeeper has joined the server (25:127.0.0.1)
+[12:51:14] [connection] incoming connection: 127.0.0.1:52704 id: 32
+[12:51:14] [npc:join] Daniel has joined the server (26:127.0.0.1)
+[12:51:14] [connection] incoming connection: 127.0.0.1:52705 id: 33
+[12:51:14] [npc:join] Joeline has joined the server (27:127.0.0.1)
+[12:51:14] [connection] incoming connection: 127.0.0.1:52706 id: 34
+[12:51:15] [npc:join] Michaela has joined the server (28:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52707 id: 35
+[12:51:15] [npc:join] Christina has joined the server (29:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52708 id: 36
+[12:51:15] [connection] incoming connection: 127.0.0.1:52709 id: 37
+[12:51:15] [npc:join] Jeremy has joined the server (30:127.0.0.1)
+[12:51:15] [npc:join] Jackson has joined the server (31:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52710 id: 38
+[12:51:15] [npc:join] Susanna has joined the server (32:127.0.0.1)
+[12:51:15] [npc:join] Tatjana has joined the server (33:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52711 id: 39
+[12:51:15] [npc:join] Marie has joined the server (34:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52712 id: 40
+[12:51:15] [npc:join] Anna has joined the server (35:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52713 id: 41
+[12:51:15] [npc:join] James has joined the server (36:127.0.0.1)
+[12:51:15] [npc:join] Semaj has joined the server (37:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52714 id: 42
+[12:51:15] [connection] incoming connection: 127.0.0.1:52715 id: 43
+[12:51:15] [npc:join] Melanie has joined the server (38:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52716 id: 44
+[12:51:15] [npc:join] Charlie has joined the server (39:127.0.0.1)
+[12:51:15] [npc:join] Martin has joined the server (40:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52717 id: 45
+[12:51:15] [npc:join] Leo has joined the server (41:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52718 id: 46
+[12:51:15] [npc:join] Hagermann has joined the server (42:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52719 id: 47
+[12:51:15] [npc:join] Nils has joined the server (43:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52720 id: 48
+[12:51:15] [connection] incoming connection: 127.0.0.1:52721 id: 49
+[12:51:15] [npc:join] Laura has joined the server (44:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52722 id: 50
+[12:51:15] [connection] incoming connection: 127.0.0.1:52723 id: 51
+[12:51:15] [npc:join] Stefania has joined the server (45:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52724 id: 52
+[12:51:15] [connection] incoming connection: 127.0.0.1:52725 id: 53
+[12:51:15] [npc:join] Hugo has joined the server (46:127.0.0.1)
+[12:51:15] [connection] incoming connection: 127.0.0.1:52726 id: 54
+[12:51:15] [npc:join] Norbert has joined the server (47:127.0.0.1)
+[12:51:15] [npc:join] Jan has joined the server (48:127.0.0.1)
+[12:51:15] [npc:join] Eddy has joined the server (49:127.0.0.1)
+[12:51:15] [npc:join] Alberto has joined the server (50:127.0.0.1)
+[12:51:15] [npc:join] AutoPate has joined the server (51:127.0.0.1)
+[12:51:16] [npc:join] Shootiii has joined the server (52:127.0.0.1)
+[12:51:16] [npc:join] Vivienn has joined the server (53:127.0.0.1)
+[12:51:16] [npc:join] Roman has joined the server (54:127.0.0.1)
+[12:51:31] [npc:part] Vivienn has left the server (53:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:52:58] filterscripts = ""  (string)
+[12:52:58] 
+[12:52:58] Server Plugins
+[12:52:58] --------------
+[12:52:58]  Loading plugin: mysql
+[12:52:58] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[12:52:58]   Loaded.
+[12:52:58]  Loading plugin: streamer
+[12:52:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:52:58]   Loaded.
+[12:52:58]  Loaded 2 plugins.
+
+[12:52:58] 
+[12:52:58] Filterscripts
+[12:52:58] ---------------
+[12:52:58]   Loaded 0 filterscripts.
+
+[12:52:58] <-| [MYSQL] Verbindung zur Datenbank wurde erfolgreich hergestellt!
+[12:52:58] Es wurden erfolgreich [19] Häuser geladen!
+[12:52:59] [connection] 127.0.0.1:57230 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57231 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57232 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57233 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57234 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57235 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57236 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57237 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57238 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57239 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57240 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57241 requests connection cookie.
+[12:52:59] [connection] 127.0.0.1:57242 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57243 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57244 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57245 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57246 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57247 requests connection cookie.
+[12:53:00]   Filterscript 'animations.amx' unload failed.
+[12:53:00]   Filterscript 'animations.amx' loaded.
+[12:53:00] Es wurden erfolgreich [6834] Objekte geladen!
+[12:53:00] ----------------------------------------
+[12:53:00]  Bayside-Roleplay 1.5 RC1 geladen - by Nemesus.dev!
+[12:53:00]  Copyright 2011-2020 by Nemesus & sHoOTi.
+[12:53:00] ------------------------------------------
+[12:53:00] •
+[12:53:00] [connection] 127.0.0.1:57248 requests connection cookie.
+[12:53:00] Number of vehicle models: 70
+[12:53:00] [connection] 127.0.0.1:57249 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57250 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57251 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57252 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57253 requests connection cookie.
+[12:53:00] [connection] 127.0.0.1:57254 requests connection cookie.
+[12:53:00] [connection] incoming connection: 127.0.0.1:57230 id: 0
+[12:53:00] [connection] incoming connection: 127.0.0.1:57231 id: 1
+[12:53:00] [connection] incoming connection: 127.0.0.1:57232 id: 2
+[12:53:00] [connection] incoming connection: 127.0.0.1:57233 id: 3
+[12:53:00] [npc:join] Mike has joined the server (0:127.0.0.1)
+[12:53:00] [connection] incoming connection: 127.0.0.1:57234 id: 4
+[12:53:00] [connection] incoming connection: 127.0.0.1:57235 id: 5
+[12:53:00] [npc:join] Dominique has joined the server (1:127.0.0.1)
+[12:53:00] [connection] incoming connection: 127.0.0.1:57236 id: 6
+[12:53:00] [connection] incoming connection: 127.0.0.1:57237 id: 7
+[12:53:00] [npc:join] Volker has joined the server (2:127.0.0.1)
+[12:53:00] [connection] incoming connection: 127.0.0.1:57238 id: 8
+[12:53:00] [npc:join] Ralle has joined the server (3:127.0.0.1)
+[12:53:00] [connection] incoming connection: 127.0.0.1:57239 id: 9
+[12:53:00] [connection] incoming connection: 127.0.0.1:57240 id: 10
+[12:53:00] [connection] incoming connection: 127.0.0.1:57241 id: 11
+[12:53:01] [connection] incoming connection: 127.0.0.1:57242 id: 12
+[12:53:01] [npc:join] Tom has joined the server (4:127.0.0.1)
+[12:53:01] [connection] incoming connection: 127.0.0.1:57243 id: 13
+[12:53:01] [npc:join] Jack has joined the server (5:127.0.0.1)
+[12:53:01] [npc:join] DJ_Paddy has joined the server (6:127.0.0.1)
+[12:53:01] [connection] incoming connection: 127.0.0.1:57244 id: 14
+[12:53:01] [connection] incoming connection: 127.0.0.1:57245 id: 15
+[12:53:01] [connection] incoming connection: 127.0.0.1:57246 id: 16
+[12:53:01] [npc:join] Phillip has joined the server (7:127.0.0.1)
+[12:53:01] [npc:join] Lumar has joined the server (8:127.0.0.1)
+[12:53:01] [connection] incoming connection: 127.0.0.1:57247 id: 17
+[12:53:01] [npc:join] Dennis has joined the server (9:127.0.0.1)
+[12:53:01] [npc:join] Peter has joined the server (10:127.0.0.1)
+[12:53:01] [npc:join] Pascal has joined the server (11:127.0.0.1)
+[12:53:01] [connection] incoming connection: 127.0.0.1:57248 id: 18
+[12:53:01] [npc:join] Wanni has joined the server (13:127.0.0.1)
+[12:53:01] [npc:join] WannisVater has joined the server (12:127.0.0.1)
+[12:53:01] [npc:join] Neko has joined the server (14:127.0.0.1)
+[12:53:01] [npc:join] Maya has joined the server (15:127.0.0.1)
+[12:53:01] [connection] incoming connection: 127.0.0.1:57249 id: 19
+[12:53:01] [npc:join] Michael has joined the server (16:127.0.0.1)
+[12:53:01] [connection] incoming connection: 127.0.0.1:57250 id: 20
+[12:53:01] [npc:join] Patrick has joined the server (17:127.0.0.1)
+[12:53:01] [connection] incoming connection: 127.0.0.1:57251 id: 21
+[12:53:01] [connection] incoming connection: 127.0.0.1:57252 id: 22
+[12:53:01] [connection] incoming connection: 127.0.0.1:57253 id: 23
+[12:53:01] [connection] incoming connection: 127.0.0.1:57254 id: 24
+[12:53:01] [npc:join] Lissa has joined the server (18:127.0.0.1)
+[12:53:01] [npc:join] Magger has joined the server (19:127.0.0.1)
+[12:53:01] [npc:join] DDealer has joined the server (20:127.0.0.1)
+[12:53:01] [npc:join] DDDealer has joined the server (21:127.0.0.1)
+[12:53:01] [npc:join] Otto has joined the server (22:127.0.0.1)
+[12:53:01] [npc:join] Sasa has joined the server (23:127.0.0.1)
+[12:53:01] [npc:join] John has joined the server (24:127.0.0.1)
+[12:53:06] [connection] 127.0.0.1:62800 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:62801 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:62802 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:62803 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:64595 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:64596 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:64597 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:64598 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:64599 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:64600 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:56746 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:56747 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:56748 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:56749 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:56750 requests connection cookie.
+[12:53:06] [connection] 127.0.0.1:60531 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60532 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60533 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60534 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60535 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60536 requests connection cookie.
+[12:53:07] '0' Gangautos wurden geladen & erstellt.
+[12:53:07] [connection] 127.0.0.1:60537 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60538 requests connection cookie.
+[12:53:07] [connection] incoming connection: 127.0.0.1:62800 id: 25
+[12:53:07] [connection] 127.0.0.1:60539 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60540 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60541 requests connection cookie.
+[12:53:07] [connection] 127.0.0.1:60542 requests connection cookie.
+[12:53:07] [connection] incoming connection: 127.0.0.1:62801 id: 26
+[12:53:07] [connection] 127.0.0.1:60543 requests connection cookie.
+[12:53:07] [connection] incoming connection: 127.0.0.1:62802 id: 27
+[12:53:07] [connection] 127.0.0.1:60544 requests connection cookie.
+[12:53:07] [connection] incoming connection: 127.0.0.1:62803 id: 28
+[12:53:07] [connection] 127.0.0.1:60545 requests connection cookie.
+[12:53:07] [connection] incoming connection: 127.0.0.1:64595 id: 29
+[12:53:07] [npc:join] PaulDerBarkeeper has joined the server (25:127.0.0.1)
+[12:53:07] [connection] incoming connection: 127.0.0.1:64596 id: 30
+[12:53:07] [connection] incoming connection: 127.0.0.1:64597 id: 31
+[12:53:07] [npc:join] Daniel has joined the server (26:127.0.0.1)
+[12:53:07] [connection] incoming connection: 127.0.0.1:64598 id: 32
+[12:53:07] [npc:join] Joeline has joined the server (27:127.0.0.1)
+[12:53:07] [connection] incoming connection: 127.0.0.1:64599 id: 33
+[12:53:07] [connection] incoming connection: 127.0.0.1:64600 id: 34
+[12:53:07] [connection] incoming connection: 127.0.0.1:56746 id: 35
+[12:53:07] [npc:join] Michaela has joined the server (28:127.0.0.1)
+[12:53:07] [connection] incoming connection: 127.0.0.1:56747 id: 36
+[12:53:07] [connection] incoming connection: 127.0.0.1:56748 id: 37
+[12:53:07] [npc:join] Christina has joined the server (29:127.0.0.1)
+[12:53:07] [connection] incoming connection: 127.0.0.1:56749 id: 38
+[12:53:07] [connection] incoming connection: 127.0.0.1:56750 id: 39
+[12:53:07] [npc:join] Jeremy has joined the server (30:127.0.0.1)
+[12:53:07] [npc:join] Jackson has joined the server (31:127.0.0.1)
+[12:53:07] [npc:join] Susanna has joined the server (32:127.0.0.1)
+[12:53:07] [npc:join] Tatjana has joined the server (33:127.0.0.1)
+[12:53:07] [npc:join] Marie has joined the server (34:127.0.0.1)
+[12:53:07] [connection] incoming connection: 127.0.0.1:60531 id: 40
+[12:53:07] [npc:join] Anna has joined the server (35:127.0.0.1)
+[12:53:07] [npc:join] James has joined the server (36:127.0.0.1)
+[12:53:07] [npc:join] Semaj has joined the server (37:127.0.0.1)
+[12:53:08] [npc:join] Melanie has joined the server (38:127.0.0.1)
+[12:53:08] [connection] incoming connection: 127.0.0.1:60532 id: 41
+[12:53:08] [npc:join] Charlie has joined the server (39:127.0.0.1)
+[12:53:08] [connection] incoming connection: 127.0.0.1:60533 id: 42
+[12:53:08] [connection] incoming connection: 127.0.0.1:60534 id: 43
+[12:53:08] [connection] incoming connection: 127.0.0.1:60535 id: 44
+[12:53:08] [npc:join] Martin has joined the server (40:127.0.0.1)
+[12:53:08] [connection] incoming connection: 127.0.0.1:60536 id: 45
+[12:53:08] [npc:join] Leo has joined the server (41:127.0.0.1)
+[12:53:08] [connection] incoming connection: 127.0.0.1:60537 id: 46
+[12:53:08] [connection] incoming connection: 127.0.0.1:60538 id: 47
+[12:53:08] [npc:join] Hagermann has joined the server (42:127.0.0.1)
+[12:53:08] [npc:join] Nils has joined the server (43:127.0.0.1)
+[12:53:08] [connection] incoming connection: 127.0.0.1:60539 id: 48
+[12:53:08] [connection] incoming connection: 127.0.0.1:60540 id: 49
+[12:53:08] [connection] incoming connection: 127.0.0.1:60541 id: 50
+[12:53:08] [connection] incoming connection: 127.0.0.1:60542 id: 51
+[12:53:08] [npc:join] Laura has joined the server (44:127.0.0.1)
+[12:53:08] [connection] incoming connection: 127.0.0.1:60543 id: 52
+[12:53:08] [connection] incoming connection: 127.0.0.1:60544 id: 53
+[12:53:08] [npc:join] Stefania has joined the server (45:127.0.0.1)
+[12:53:08] [connection] incoming connection: 127.0.0.1:60545 id: 54
+[12:53:08] [npc:join] Hugo has joined the server (46:127.0.0.1)
+[12:53:08] [npc:join] Norbert has joined the server (47:127.0.0.1)
+[12:53:08] [npc:join] Eddy has joined the server (48:127.0.0.1)
+[12:53:08] [npc:join] Jan has joined the server (49:127.0.0.1)
+[12:53:08] [npc:join] Alberto has joined the server (50:127.0.0.1)
+[12:53:08] [npc:join] AutoPate has joined the server (51:127.0.0.1)
+[12:53:08] [npc:join] Shootiii has joined the server (52:127.0.0.1)
+[12:53:08] [npc:join] Vivienn has joined the server (53:127.0.0.1)
+[12:53:08] [npc:join] Roman has joined the server (54:127.0.0.1)
+[12:53:18] [connection] 127.0.0.1:60548 requests connection cookie.
+[12:53:19] [connection] incoming connection: 127.0.0.1:60548 id: 55
+[12:53:24] [npc:part] Vivienn has left the server (53:0)
+[12:53:34] [connection] incoming connection: 127.0.0.1:62763 id: 53
+[12:53:49] [connection] incoming connection: 127.0.0.1:62829 id: 53
+[12:53:59] [connection] incoming connection: 127.0.0.1:62831 id: 53
+[12:54:10] [connection] incoming connection: 127.0.0.1:62833 id: 53
+[12:54:25] [connection] incoming connection: 127.0.0.1:62835 id: 53
+[12:54:40] [connection] incoming connection: 127.0.0.1:58658 id: 53
+[12:54:40] [connection] incoming connection: 127.0.0.1:58659 id: 53
+[12:54:41] [join] Nemesus3 has joined the server (53:127.0.0.1)
