@@ -1,4 +1,6 @@
-Bayside-Roleplay Script Version 1.5 RC3 (San Andreas:Multiplayer)
+🎮 Bayside-Roleplay Script Version 1.5 RC3 (San Andreas:Multiplayer/SA:MP) 🎮
+
+Auf der Suche nach einem günstigen SA:MP Server? ZAP-Hosting: https://bit.ly/2YnfPJt und mit dem Gutschein: Nsus-a-3805 noch kräftig sparen! (Werbung)
 
 Yotubube-Tutorial: https://www.youtube.com/watch?v=DWGe1dUB4o8
 
