@@ -25,6 +25,6 @@ Das Script bot als einer der ersten Roleplay Scripte, viele neuartige Funktional
     Ein ausgebautes Casinosystem
     und vieles mehr ...
 
-Ihr wollt uns unterstützen? https://ko-fi.com/nemesustv
+☕ Ihr wollt uns unterstützen? https://ko-fi.com/nemesustv ☕
 
 Weitere Informationen gibt es hier: https://nemesus.de/pawn-scripte/bayside-roleplay-script/
