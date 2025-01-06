@@ -10,7 +10,7 @@ Homepage: https://nemesus.de
 
 Du bist hier, da du Interesse am Bayside-Roleplay Script hast?
 
-Die Entwicklung fing ca. 2010 an und das Script wurde 2011 fertiggestellt, mit den Ziel damals der erste deutsche Bayside Roleplay Server zu werden. Dieses Ziel ist uns gelungen, wir hatten zu beginn knapp 108 Spieler verteilt auf Bayside und Umgebung.
+Die Entwicklung fing ca. 2010 an und das Script wurde 2011 fertiggestellt, mit dem Ziel damals der erste deutsche Bayside Roleplay Server zu werden. Dieses Ziel ist uns gelungen, wir hatten zu beginn knapp 108 Spieler verteilt auf Bayside und Umgebung.
 
 Das Script bot als einer der ersten Roleplay Scripte, viele neuartige Funktionalitäten wie z.B:
 
